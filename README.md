@@ -1,4 +1,5 @@
-### Hi there 👋
+### My Story Is A Lot Like Yours, Only More Interesting ‘Cause It Involves Robots.
+-- Shamelessly stolen from robot Bender.
 
 <!--
 **lshamis/lshamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
