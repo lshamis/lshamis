@@ -1,4 +1,4 @@
-### My Story Is A Lot Like Yours, Only More Interesting ‘Cause It Involves Robots.
+### "My story is a lot like yours, only more interesting ‘cause it involves robots."
 -- Shamelessly stolen from robot Bender.
 
 <!--
